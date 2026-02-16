@@ -14,5 +14,5 @@ To maintain a 60-day streak of solving complex DSA problems, focusing on optimiz
 
 | Day | Date | Problem Name | Difficulty | Solution | Time Complexity |
 |:---:|:----:|:-------------|:----------:|:--------:|:---------------:|
-| 01 | Feb 16 | [Link to Problem] | Medium | [C++](./Day_01_Problem_Name/solution.cpp) | $O(N)$ |
+| 01 | Feb 16 | [Meeting Rooms](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | Easy | [C++](./Day_01_Meeting_Rooms/solution.cpp) | O(N log N) |
 | 02 | Feb 17 | | | | |
