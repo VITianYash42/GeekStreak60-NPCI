@@ -16,5 +16,3 @@ To maintain a 60-day streak of solving complex DSA problems, focusing on optimiz
 |:---:|:----:|:-------------|:----------:|:--------:|:---------------:|
 | 01 | Feb 16 | [Link to Problem] | Medium | [C++](./Day_01_Problem_Name/solution.cpp) | $O(N)$ |
 | 02 | Feb 17 | | | | |
-## 🏆 Badges & Streaks
-*(You can add screenshots of your GeeksforGeeks streak or NPCI challenge badges here as you earn them)*
