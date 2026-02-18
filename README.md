@@ -16,4 +16,4 @@ To maintain a 60-day streak of solving complex DSA problems, focusing on optimiz
 |:---:|:----:|:-------------|:----------:|:--------:|:---------------:|
 | 01 | Feb 16 | [Meeting Rooms](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | Easy | [C++](./Day_01_Meeting_Rooms/solution.cpp) | O(N log N) |
 | 02 | Feb 17 | [Maximum number of overlapping Intervals](https://www.geeksforgeeks.org/problems/maximum-number-of-overlapping-intervals/1) | Hard | [C++](./Day_02_Maximum_Overlapping_Intervals/solution.cpp) | $O(N \log N)$ |
-| 03 | Feb 18 | | | | |
+| 03 | Feb 18 | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | [C++](./Day_03_Count_Inversions/solution.cpp) | $O(N \log N)$ |
